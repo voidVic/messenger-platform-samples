@@ -1,23 +1,32 @@
 {
-    "name": "home-bot",
-    "version": "1.0.0",
-    "description": "An example webhook for Facebook Messenger quick start tutorial.",
-    "main": "app.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/fbsamples/messenger-platform-samples.git"
-    },
-    "author": "Facebook",
-    "license": "ISC",
-    "dependencies": {
-      "body-parser": "^1.15.0",
-      "express": "^4.13.4",
-      "request": "^2.72.0"
-    },
-    "engines": {
-      "node": "6.11.3"
-    }
+  "name": "home-bot",
+  "version": "1.0.0",
+  "description": "An example webhook for Facebook Messenger quick start tutorial.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+  },
+  "author": "Facebook",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.15.0",
+    "config": "^1.28.1",
+    "cookie-parser": "*",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "lodash": "*",
+    "natural": "^0.5.4",
+    "natural-brain": "*",
+    "python-shell": "^0.4.0",
+    "request": "^2.72.0",
+    "serial": "0.0.9"
+  },
+  "engines": {
+    "node": "6.11.3"
   }
+}

@@ -1,0 +1,50 @@
+{
+    "object": "page",
+    "entry": [
+        {
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "611839142273622"
+                    },
+                    "recipient": {
+                        "id": "1493176894130616"
+                    },
+                    "timestamp": 1511001729309,
+                    "message": {
+                        "mid": "mid.$cAAVOCR0b87tl__3xHVfzrimQ82E0",
+                        "seq": 27034,
+                        "text": "Turn off hall light",
+                        "nlp": {
+                            "entities": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+//emoji response
+"sender": {
+    "id": "611839142273622"
+},
+"recipient": {
+    "id": "1493176894130616"
+},
+"timestamp": 1511164261308,
+"message": {
+    "mid": "mid.$cAAVOCR0b87tmCa37vFf2GiwOmevf",
+    "seq": 27126,
+    "sticker_id": 369239263222822,
+    "attachments": [
+           {
+                  "type": "image",
+                  "payload": {
+                         "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851557_369239266556155_759568595_n.png?_nc_ad=z-m&_nc_cid=0&oh=9058fb52f628d0a6ab92f85ea310db0a&oe=5A9DAADC",
+                         "sticker_id": 369239263222822
+                  }
+           }
+    ]
+}
+}

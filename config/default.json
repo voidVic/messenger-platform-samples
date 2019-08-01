@@ -1,0 +1,22 @@
+{
+    "adapter": {
+        "account": "20394B8B923F4907AFA1FDE51CACFD62",
+        "Authorization": " Bearer CgNPQVQQARgCIoABmhYLUpH0YU0AqUZGAlIDVHVgw9zg5MQUzgQ3wc1QjOILnbloeTDlV6H4dqh9M_pGVmsEcCBnl3La_h3hsuwtiBFozn3df1b4w5DShOM-K7mOcSTOS7Ijxp9U8TNZnZ3JCoCpdM8cFA1nIv9Lx2P-uBvOcBw9yi2I_rYwt19HB-sqEOoyrwId9KXz9uRkjogpRNoyUQoodXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOmVuY3J5cHQ6MRIldXJuOmNpbWE6b2F1dGg6djI6YWNjZXNzLXRva2VuOnNpZ246MTqgAolP5unbA5xKzqJxyIfC6LN5W0vOwUYXu8pkaCgzrieQBMQpMJnO9J03kAG6cYyTJV75UlFnXoRhRF22-b9SgbmtJc5cR3RzfZRGq3owvuTfhrTJcJmo8LXO7Rk40bsI0aRA73vxUMeXNRfw8IjwxY6YizaTll8uRPJZ7VpSBejkr11Pbq0CW5_HLZ8-3y-LK4rp1jc_87rQkX2Wrtw1Q2-zBiXZ3Es9NLKNarkZCMp6GZq359PVj-GW3AaXPtd3Hl6ibir3wBDV68VZG9s2XyM4kAA6F4qEp9cCrNcMX2Rp-Gh_8NXzGqEqVhp64HDXk5PrBEE-X9Qf9C_DHEkHeW3BfcnDl0LTm_NrVrUT9AeIBncf-qp_dLaW-p8iZsjdsQ**"
+    },
+    "appKeys": {
+        "verifyToken": "voidvickamehameha",
+        "pageAccessToken": "EAAFQgtafDuYBALgVwt7S4zsaN6Q7MfXcZBMWMPvRcjuF0ZB7w1OwzZBBkpEtts98llKy0T5YBDnKkkNY0SMTJiwkX1IsSfUx9mD1F82SIPE09raq9NfSBHBshDoZAPcyG4ZBWjDMz73M76zMTiBRJV170ezF6nlQj07kMvDSi5QZDZD"
+    },
+    "keywords": {
+        "VBG": ["com", "approach"],
+        "conditional": {
+            "cond": ["if", "when"],
+            "statement": ["do", "then", "always"]
+        }
+    },
+    "emotions": [" 🙉",	" 🐢", " 🐼" , " 🙊", " 🦁", " 🐈", " 🐱", " 🐺", " 🙊", " 🐶"],
+    "buildUp": ["as per my sources", "As per my database", "If I believe my past records", "here is the info, just for you"],
+    "noWork": ["My net effort to do this will be zero because", "I can't do it because", "Oh Dear!", "I can't take this command because"],
+    "success": ["here we go", "since you wanted me to do this", "although I'm lazy, but still", "anything for you", "Although in the middle of Martial Arts Training, but still"],
+    "intro": ["I'm glad you asked, Thinking about the Parallel Universe, do you need some help with your devices?", "feeling sleepy, but can manage your home devices for you", "Running some complex code, but that's my job, anyways what can I do for you?", "In the middle of Martial Arts Training, but I can pause it for a while if you want me to manage your home devices.", "I'm lost in a dark neverending while loop, but still operate your devices."]
+}

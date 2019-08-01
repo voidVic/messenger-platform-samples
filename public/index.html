@@ -1,0 +1,35 @@
+<html ng-app="piccolo">
+    <head>
+        <title>Hey Vegeta</title>
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body ng-controller="mainController as ctrl">
+        <h1>Hi I am Vegeta</h1>
+        <h2>Call my name and say something like..</h2>
+        <h2>"Hey Vegeta! turn Kitchen Bulb Green"</h2>
+        <h2>Or Write it here <input type="text" ng-model="ctrl.voiceText"><input type="button" value="Send Command" ng-click="ctrl.triggerAction()"></h2>
+        <h2>And I will try to assist you.</h2>
+        <h3>List of available devices</h3>
+        <div>
+            LIGHTS: <div>
+                <div ng-repeat="l in ctrl.devices.lights">
+                    <span>NAME : {{l.name}}</span>
+                </div>
+            </div>
+        </div>
+        <h3><span>Error:  </span><span ng-bind="ctrl.error"></h3>
+        <h3><span>Command:  </span><span ng-bind="ctrl.command"></h3>
+        <h1><span>Result:  </span><span ng-bind="ctrl.result"></h1>
+
+        <div id="doorImage"></div>
+        <div class="row">
+            
+            <div class="col-md-6">
+                <div class="bulb" id="bulb"></div>
+            </div>
+        </div>
+        <script src="./js/angular.min.js"></script>
+        <script src="./js/script.js"></script>
+    </body>
+</html>

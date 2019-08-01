@@ -1,0 +1,38 @@
+{
+    "lights": [
+        {
+            "name": "Hall lamp",
+            "id": "00-17-88-01-02-4f-a1-6f-0b_3",
+            "make": "Philips",
+            "switch": "OFF"
+        },
+        {
+            "name": "kitchen lamp",
+            "id": "00-17-88-01-02-57-6f-5d-0b_8",
+            "make": "Philips",
+            "switch": "OFF"
+        }
+    ],
+    "locks": [],
+    "summary": {
+        "lights": {
+            "total": 2,
+            "Philips": 2
+        },
+        "locks": {
+            "total": 0
+        }
+    },
+    "lastCommand": {
+        "isLocation": false,
+        "isGroupCommand": false,
+        "device": {
+            "id": "00-17-88-01-02-4f-a1-6f-0b_3"
+        },
+        "rules": {
+            "out": [],
+            "in": []
+        },
+        "isDevice": true
+    }
+}

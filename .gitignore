@@ -4,3 +4,10 @@ pids
 node_modules
 .npm
 *.dat
+detectedImages
+input/*
+outputVid/*
+.DS_store
+models/*
+*.pyc
+*.npy
